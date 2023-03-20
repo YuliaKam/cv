@@ -2,9 +2,9 @@
 
 ## Contact information:
 
-**Location** Dnipro, Ukraine
-**Phone** +380xxxxxxxxx
-**Email** xxxxxxx@gmail.com
+- **Location** Dnipro, Ukraine
+- **Phone** +380xxxxxxxxx
+- **Email** xxxxxxx@gmail.com
 
 ## About me
 
