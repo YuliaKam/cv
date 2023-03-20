@@ -33,7 +33,14 @@ Object.deepFreeze = function (object) {
 ## Education
 
 - HTML/CSS/JS Fundamentals Course;
+- ScriptJedi42 Course;
+- Responsive Web Design Course on freecodecamp.org;
+- JavaScript Algorithms and Data Structures Course on freecodecamp.org (_in progress_);
 
-* ScriptJedi42 Course;
-* Responsive Web Design Course on freecodecamp.org;
-* JavaScript Algorithms and Data Structures Course on freecodecamp.org (in progress);
+## Languages
+
+- English: Intermediate;
+- French: Upper-Intermediate;
+- German: Pre-Intermediate;
+- Ukrainian: Fluent;
+- Russian: Fluent;
