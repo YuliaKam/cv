@@ -12,10 +12,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Skills
 
-- HTML
-- CSS/SASS
-- JavaScript
-- Git
+- HTML;
+- CSS;
+- JavaScript;
+- Git;
 
 ## Code example
 
@@ -39,8 +39,8 @@ Object.deepFreeze = function (object) {
 
 ## Languages
 
-- English: Intermediate;
-- French: Upper-Intermediate;
-- German: Pre-Intermediate;
-- Ukrainian: Fluent;
-- Russian: Fluent;
+- **English**: Intermediate;
+- **French**: Upper-Intermediate;
+- **German**: Pre-Intermediate;
+- **Ukrainian**: Fluent;
+- **Russian**: Fluent;
