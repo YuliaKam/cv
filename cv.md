@@ -29,3 +29,11 @@ Object.deepFreeze = function (object) {
   }
 };
 ```
+
+## Education
+
+- HTML/CSS/JS Fundamentals Course;
+
+* ScriptJedi42 Course;
+* Responsive Web Design Course on freecodecamp.org;
+* JavaScript Algorithms and Data Structures Course on freecodecamp.org (in progress);
