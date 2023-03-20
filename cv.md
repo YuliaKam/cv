@@ -16,3 +16,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - CSS/SASS
 - JavaScript
 - Git
+
+## Code example
+
+```javascript
+Object.deepFreeze = function (object) {
+  Object.freeze(object);
+  for (let key in object) {
+    if (typeof object[key] === "object") {
+      Object.deepFreeze(object[key]);
+    }
+  }
+};
+```
